@@ -1,0 +1,9 @@
+#Entornos virtuales
+Ecosmart_venv/
+
+#archivos de configuracion sensibles
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
