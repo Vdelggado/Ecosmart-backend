@@ -23,6 +23,7 @@ backend para la aplicación movil Ecosmart, una plataforma para gestionar materi
 ## Instalación
 
 1.  Clona el repositorio:
+    ```
     git clone https://github.com/tu-usuario/flask-ecosmart-backend.git
     ```
 2.  Crea un entorno virtual:
